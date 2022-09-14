@@ -1,5 +1,5 @@
 
-ZSIM_PATH="/home/yuchao/Workspace/PIM/MultiPIM"
+ZSIM_PATH="${HOME}/projects/NDP/Simulator/MultiPIM"
 ZSIM_BIN_PATH="$ZSIM_PATH/build/opt"
 LIB_ZSIM_PATH="$ZSIM_PATH/build/opt"
 LIBCONFIGPATH="$ZSIM_PATH/common/libconfig/lib"

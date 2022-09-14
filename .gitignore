@@ -7,3 +7,6 @@
 *.out
 *.stats
 .vscode
+
+./common/
+.sconsign.dblite
